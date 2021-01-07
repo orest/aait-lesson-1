@@ -46,7 +46,6 @@
     <Compile Include="Extentions\StringExtentions.cs" />
     <Compile Include="Models\Adult.cs" />
     <Compile Include="Models\Family.cs" />
-    <Compile Include="Models\MyTester.cs" />
     <Compile Include="Models\Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
